@@ -2,13 +2,13 @@
 
 ### COMPANY: CODTECH IT SOLUTIONS
 
-## NAME: SHREYA TANAJI MAGADUM
+### NAME: SHREYA TANAJI MAGADUM
 
-## DOMAIN: PYTHON PROGRAMMING
+### DOMAIN: PYTHON PROGRAMMING
 
-## DURATION: 4 WEEKS
+### DURATION: 4 WEEKS
 
-## MENTOR: NEELA SANTOSH KUMAR
+### MENTOR: NEELA SANTOSH KUMAR
 
 # AI Chatbot with Natural Language Processing
 
@@ -29,22 +29,22 @@ Provides meaningful responses in real time
 Runs directly in the terminal or command prompt
 Installation
 
-## Clone the repository:
+### Clone the repository:
 
 git clone <repository_link>
 
 
-## Install required libraries:
+### Install required libraries:
 
 pip install nltk
 
 
-## Download NLTK tokenizer data:
+### Download NLTK tokenizer data:
 
 import nltk
 nltk.download('punkt')
 
-## Usage
+### Usage
 
 Run the chatbot script:
 
@@ -54,17 +54,17 @@ Type a message and press Enter.
 
 Type quit to exit the chat.
 
-## Technologies Used
+### Technologies Used
 
 Python
 
 NLTK (Natural Language Toolkit)
 
-## Applications
+### Applications
 
 This chatbot can be extended for customer support, FAQs, virtual assistants, and educational tools. More intents and NLP models can be added to improve accuracy and conversational depth.
 
-## Output:
+### Output:
 Chatbot: Hello! Type 'quit' to exit.
 You: good evening
 Chatbot: Hello!
