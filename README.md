@@ -66,22 +66,41 @@ This chatbot can be extended for customer support, FAQs, virtual assistants, and
 
 ### Output:
 Chatbot: Hello! Type 'quit' to exit.
+
 You: good evening
+
 Chatbot: Hello!
+
 You: hey
+
 Chatbot: Hey! How can I help you?
+
 You: who are you?
+
 Chatbot: I am a simple chatbot created in Python!
+
 You: what are you?
+
 Chatbot: I am your Python chatbot assistant.
+
 You: about yourself
+
 Chatbot: I am your Python chatbot assistant.
+
 You: bye
+
 Chatbot: Goodbye!
+
 You: see you
+
 Chatbot: Have a nice day!
+
 You: goodbye
+
 Chatbot: Goodbye!
+
 You: quit
+
 Chatbot: Goodbye!
+
 
