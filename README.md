@@ -16,7 +16,7 @@ This project is a simple AI-powered chatbot built using Python and Natural Langu
 The chatbot is designed to understand basic user inputs and respond appropriately using predefined intents and patterns. 
 It demonstrates how text preprocessing, tokenization, and stemming can be used to build conversational systems.
 
-## Features
+### Features
 
 Responds to greetings, farewells, thanks, and general queries
 
@@ -60,6 +60,28 @@ Python
 
 NLTK (Natural Language Toolkit)
 
-# Applications
+## Applications
 
 This chatbot can be extended for customer support, FAQs, virtual assistants, and educational tools. More intents and NLP models can be added to improve accuracy and conversational depth.
+
+## Output:
+Chatbot: Hello! Type 'quit' to exit.
+You: good evening
+Chatbot: Hello!
+You: hey
+Chatbot: Hey! How can I help you?
+You: who are you?
+Chatbot: I am a simple chatbot created in Python!
+You: what are you?
+Chatbot: I am your Python chatbot assistant.
+You: about yourself
+Chatbot: I am your Python chatbot assistant.
+You: bye
+Chatbot: Goodbye!
+You: see you
+Chatbot: Have a nice day!
+You: goodbye
+Chatbot: Goodbye!
+You: quit
+Chatbot: Goodbye!
+
